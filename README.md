@@ -9,12 +9,3 @@ This program have the following functionalitis...
 > Products database
 
 > Customer database
-
-#Other heading
-
-vgs hhis h
-//dgdyf
-
-//wjhwf
-
->bh uh
